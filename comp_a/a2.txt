@@ -1,1 +1,2 @@
 Add beta feature
+Add second beta feature
